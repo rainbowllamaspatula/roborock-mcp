@@ -146,5 +146,5 @@ roborock-mcp/
 
 ## Credits
 
-Built by [leviticusx](https://github.com/leviticusx) with help from Claude.
+Built by [rainbowllamaspatula](https://github.com/rainbowllamaspatula)) with help from Claude.
 Powered by [python-roborock](https://github.com/Python-roborock/python-roborock) and [FastMCP](https://github.com/jlowin/fastmcp).
